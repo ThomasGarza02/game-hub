@@ -1,6 +1,5 @@
 import { Button } from "@chakra-ui/react";
 import { Menu, MenuButton, MenuItem, MenuList } from "@chakra-ui/react/menu";
-import { label } from "framer-motion/client";
 import { BsChevronDown } from "react-icons/bs";
 interface Props {
   sortOrder: string;
