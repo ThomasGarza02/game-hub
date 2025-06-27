@@ -16,6 +16,7 @@ export interface Game {
         [x: string]: any;platform:Platform
         }
     metacritic:number;
+    rating_top:number;
   }
 
   const useGames = 
